@@ -1,0 +1,5 @@
+@import url("reset.css");
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
